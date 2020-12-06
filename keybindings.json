@@ -1,0 +1,18 @@
+[
+    {
+        "key": "ctrl+[BracketLeft]",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+shift+w",
+        "command": "workbench.action.toggleMaximizedPanel"
+    },
+    {
+        "key": "ctrl+[Quote]",
+        "command": "workbench.action.closePanel"
+    },
+    {
+        "key": "ctrl+[",
+        "command": "workbench.action.terminal.focusNext"
+    }
+]
